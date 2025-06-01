@@ -20,8 +20,8 @@ To write a python program to implement pattern matching on the given string usin
 ## Program:
 ```
 
-# Developed by: Yuva Krishna K
-# Register Number: 212222110056
+# Developed by: AMURTHA VAAHINI KN
+# Register Number: 212222240008
 
 def BF(s1,s2):
     
