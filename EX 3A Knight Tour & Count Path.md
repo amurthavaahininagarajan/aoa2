@@ -28,8 +28,8 @@ To write a python program to find minimum steps to reach to specific cell in min
 11.Keep repeating this process until the target is reached.
 ## Program:
 ```
-# Developed by: Yuva Krishna K
-# Register Number: 212222110056
+# Developed by: AMURTHA VAAHINI KN
+# Register Number: 212222240008
 
 class cell:
      
