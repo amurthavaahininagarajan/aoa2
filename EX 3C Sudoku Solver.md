@@ -38,8 +38,8 @@ To write a python program to find the solution of sudoku puzzle using Backtracki
 
 ## Program:
 ```
-# Developed by: Yuva Krishna K
-# Register Number: 212222110056
+# Developed by: AMURTHA VAAHINI KN
+# Register Number: 212222240008
 
 board = [
     [0, 0, 0, 8, 0, 0, 4, 0, 3],
